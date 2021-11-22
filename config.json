@@ -151,7 +151,9 @@
       "template-change-history": "template/layouts/layout-changehistory.html",
       "base": "{{[type]}}-{{[id]}}.html",
       "format": "{{[type]}}-{{[id]}}.{{[fmt]}}.html",
-      "change-history": "{{[type]}}-{{[id]}}.change.history.html"
+      "change-history": "{{[type]}}-{{[id]}}.change.history.html",
+	  "ttl": false,
+	  "ttl-html": false
     }
   }
 }
