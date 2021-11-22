@@ -1,0 +1,15 @@
+﻿{
+  "package-id": "gabriel0316.ig.template",
+  "title": "Test template",
+  "canonical": "https://github.com/gabriel0316/ig-template",
+  "introduction": "Test template introduction",
+  "list": [
+    {
+      "version": "current",
+      "desc": "Continuous Integration Build (latest in version control)",
+      "path": "https://build.fhir.org/ig/gabriel0316/ig-template",
+      "status": "ci-build",
+      "current": true
+    }
+  ]
+}
