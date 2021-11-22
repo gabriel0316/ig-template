@@ -1,0 +1,13 @@
+﻿{
+  "name": "gabriel0316.ig.template",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "TerminoloGit Template",
+  "author": "gabriel0316",
+  "canonical": "https://github.com/gabriel0316/ig-template",
+  "base": "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  },
+  "version": "0.0.1"
+}
